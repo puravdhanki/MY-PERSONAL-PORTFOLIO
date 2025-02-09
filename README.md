@@ -1,23 +1,23 @@
-🔥 **Just Dropped My Personal Portfolio on GitHub!** 🚀💻  
+🚀 **JUST LAUNCHED: MY PERSONAL PORTFOLIO!** 💻🔥  
 
-Super excited to share my **Personal Portfolio Website**—a project I built as part of my internship at **@Prodigy Infotech**! 🎯✨  
+🎯 **Built as part of my internship at @Prodigy Infotech!**  
 
-This portfolio is a reflection of my **skills, creativity, and passion for web development!** 🌐💡 It's designed with **clean UI, smooth animations, and full responsiveness** to ensure the best experience on any device! 📱💻  
+This portfolio is a reflection of my **skills, passion & creativity in web development!** 🌐💡 Designed with a **sleek UI, smooth animations & full responsiveness** for the best experience across all devices! 📱💻  
 
-🌟 **Tech Stack:**  
-💻 HTML | 🎨 CSS | ⚡ JavaScript  
+💻 **TECH STACK:**  
+🚀 HTML | 🎨 CSS | ⚡ JavaScript  
 
-🎯 **Key Features:**  
-✅ Sleek & Modern UI  
-✅ Fully Responsive Design 📱  
-✅ Smooth Transitions & Animations 🎥  
-✅ Showcasing My Projects & Skills 🚀  
+🔥 **FEATURES:**  
+✅ **Modern & Interactive UI**  
+✅ **Fully Responsive Design** 📱  
+✅ **Smooth Transitions & Animations** 🎥  
+✅ **Showcasing My Projects & Skills** 🚀  
 
-A huge shoutout to **@Prodigy Infotech** for this amazing opportunity! 💙  
+✨ **HUGE SHOUTOUT to @Prodigy Infotech for this amazing opportunity!**  
 
-💻 **Check it out on GitHub & drop a ⭐ if you like it!** 🔗👇  
-[🔗 GitHub Repository](your-github-link-here)  
+💻 **CHECK IT OUT ON GITHUB & DROP A ⭐ IF YOU LOVE IT!**  
+🔗 [Netifly Live Preview]([https://lnkd.in/gSXnxttY)  
 
-Would love to hear your feedback! Let’s connect and grow together. 🚀✨  
+💬 Let me know what you think! Excited to connect & grow together! 🚀  
 
-#GitHub #PortfolioWebsite #WebDevelopment #ProdigyInfotech #Frontend #HTML #CSS #JavaScript #UIUX #CodingLife #TechInnovation #Developer
+#GitHub #PortfolioWebsite #WebDevelopment #ProdigyInfotech #Frontend #HTML #CSS #JavaScript #UIUX #CodingLife #TechInnovation #Developer 🚀💻
