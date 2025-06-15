@@ -16,7 +16,7 @@ This portfolio is a reflection of my **skills, passion & creativity in web devel
 ✨ **HUGE SHOUTOUT to @Prodigy Infotech for this amazing opportunity!**  
 
 💻 **CHECK IT OUT ON GITHUB & DROP A ⭐ IF YOU LOVE IT!**  
-🔗 [Netifly Live Preview]([https://lnkd.in/gSXnxttY)  
+🔗 [Netifly Live Preview](https://purav-dhanki-portfolio-2.netlify.app/)  
 
 💬 Let me know what you think! Excited to connect & grow together! 🚀  
 
